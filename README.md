@@ -1,4 +1,6 @@
-# CONVOLUTIONAL VERSUS SELF-ORGANIZED OPERATIONAL NEURAL NETWORKS FOR REAL-WORLD BLIND IMAGE DENOISING
+# Convolutional Versus Self-Organized Operational Neural Networks For Real-World Blind Image Denoising
+
+Training code for the preprint https://arxiv.org/abs/2103.03070
 
 Download the training data from the following link:
 
